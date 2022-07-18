@@ -142,5 +142,13 @@
   "termsOfUseUrl": {
     "Value": "<<value>>",
     "Description": "The https:// URL to the company's terms of use."
+  },
+  "azcliAppId":{    
+    "Value": "<<value>>",
+    "Description": "The app id to login with Az CLI."
+  },
+  "azcliAppSecret":{
+    "Value": "<<value>>",
+    "Description": "The app secret to login with Az CLI"
   }
 }
